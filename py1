@@ -1,2 +1,2 @@
-print("hello wolrd")
-print("welcome to the google app engine ")
+print('hello wolrd')
+print('welcome to the google app engine ')
